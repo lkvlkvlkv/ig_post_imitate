@@ -4,4 +4,4 @@
 
 ## 成品長相
 
-[成品](./images/result.png)
+![成品](./images/result.png)
